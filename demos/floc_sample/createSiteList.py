@@ -1,6 +1,6 @@
 import json
 siteList = []
-for i in range(1,9):
+for i in range(1,20):
     siteList.append(input(f'Enter site {i}: '))
 print(siteList)
 
